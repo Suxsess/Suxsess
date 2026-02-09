@@ -1,4 +1,4 @@
-# 👋 Hello, I'm Suxsess
+# Hi there, I'm Suxsess
 
 ## 🛡️ Ethical Hacker | 💻 Tech Enthusiast | 🐍 Python Programmer
 
